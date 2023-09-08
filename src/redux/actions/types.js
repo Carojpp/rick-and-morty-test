@@ -1,0 +1,7 @@
+// src/redux/actions/types.js
+export const ADD_CHARACTER = 'ADD_CHARACTER';
+export const REMOVE_CHARACTER = 'REMOVE_CHARACTER';
+export const TOGGLE_FAVORITE = 'TOGGLE_FAVORITE';
+export const SET_CHARACTERS = 'SET_CHARACTERS';
+export const SET_SEARCH_TERM = 'SET_SEARCH_TERM';
+export const SEARCH_CHARACTERS_BY_NAME = 'SEARCH_CHARACTERS_BY_NAME'; 
